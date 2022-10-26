@@ -2,14 +2,13 @@
 
 I'm Odonkhuu Zolboo!
 
-Check out my 이력서. I just made it! :)
+Check out my 이력서 I just made! :)
 https://zolboo21.github.io/
 
 - <i>Currently:</i> Smart IoT student at Hallym University in South Korea.
 - <i>Previously:</i> Mongolian High shcool of Science and Technology.
 
 <h2> :computer: I'm Currently Learning</h2>
-_Hallym University in Chuncheon_
 -Embedded System
 -Utilizing a Open Source SW Development
 -Algorithm
