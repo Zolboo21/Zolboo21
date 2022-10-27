@@ -9,7 +9,7 @@ https://zolboo21.github.io/
 - <i>Previously:</i> Mongolian High shcool of Science and Technology.
 
 <h2> :computer: I'm Currently Learning</h2>
--Embedded System
+**Embedded System**
 -Utilizing a Open Source SW Development
 -Algorithm
 
