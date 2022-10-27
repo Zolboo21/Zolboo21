@@ -9,9 +9,9 @@ https://zolboo21.github.io/
 - <i>Previously:</i> Mongolian High shcool of Science and Technology.
 
 <h2> :computer: I'm Currently Learning</h2>
-**Embedded System**
-**Utilizing a Open Source SW Development**
--Algorithm
+<h3>★Embedded System</h3>
+<h3>★Utilizing a Open Source SW Development</h3>
+<h3>★Algorithm</h3>
 
 <h2>About Capstone Design</h2>
 Team Magugan (마구간) has 2 person including me.
