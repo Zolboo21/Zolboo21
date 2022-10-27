@@ -10,7 +10,7 @@ https://zolboo21.github.io/
 
 <h2> :computer: I'm Currently Learning</h2>
 **Embedded System**
--Utilizing a Open Source SW Development
+**Utilizing a Open Source SW Development**
 -Algorithm
 
 <h2>About Capstone Design</h2>
