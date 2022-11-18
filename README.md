@@ -14,8 +14,7 @@ https://zolboo21.github.io/
 <h3>★Algorithm</h3>
 
 <h2>About Capstone Design</h2>
-[GitHub Pages](https://pages.github.com/)
-
+<a href="https://github.com/tombeom/magugan" target="_blank">Click to see more</a>
 
 <h2>🌱 I’m currently learning</h2>
  - <i>GCP</i>
