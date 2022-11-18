@@ -14,9 +14,7 @@ https://zolboo21.github.io/
 <h3>★Algorithm</h3>
 
 <h2>About Capstone Design</h2>
-Team Magugan (마구간) has 2 person including me.
-Our project is about image processing for a parking lot system which keeps count of the available parking spots. It's done with integrated system made of RaspberryPi algorithm and Arduino. The system recognizes the remaining spots in the parking lot through a camera input that will then be processed by a deep learning image processing algorithm which output is used to monitor the parking lot situation in real time. A live monitoring is shown on a dedicated website which we are in a process of making it.
-My role is Arduino and Bluetooth communication perform the function of raising and lowering the breaker according to the parking lot situation. The information from the parking lot will be shown on the website through web server.
+[GitHub Pages](https://pages.github.com/)
 
 
 <h2>🌱 I’m currently learning</h2>
