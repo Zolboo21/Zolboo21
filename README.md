@@ -6,7 +6,7 @@ Check out my 이력서 I just made! :)
 https://zolboo21.github.io/
 
 - <i>Currently:</i> Smart IoT student at Hallym University in South Korea.
-- <i>Previously:</i> Mongolian High shcool of Science and Technology.
+- <i>Previously:</i> Mongolian High school of Science and Technology.
 
 <h2> :computer: I'm Currently Learning</h2>
 <h3>★Embedded System</h3>
