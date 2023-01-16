@@ -2,7 +2,7 @@
 
 I'm Odonkhuu Zolboo!
 
-Check out my 이력서 I just made! :)
+Check out my  I just made! :)
 [Click here](https://zolboo21.github.io/GitHub-Resume-Contest-Hackathon/)
 
 - <i>Currently:</i> Smart IoT student at Hallym University in South Korea.
