@@ -1,7 +1,5 @@
 # Hi, I'm Zolboo! 👋
 
-<a href=#><img src="contributions.svg"></a>
-
 I'm a Smart IoT student from Mongolia who loves to code! I enjoy working with a variety of programming languages and tools, and I'm always eager to learn more. Here are a few fun facts about me:
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Smart IoT
@@ -26,6 +24,9 @@ I recently completed my capstone project, which you can check out [here](https:/
 [![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
+![contributions](https://user-images.githubusercontent.com/68363309/219369759-ce6cbed7-b1fe-4f1d-9f5c-4c0d0fc0333e.svg)
+
 
 ## Get in Touch
 
