@@ -1,5 +1,7 @@
 # Hi, I'm Zolboo! 👋
 
+<a href=#><img src="contributions.svg"></a>
+
 I'm a Smart IoT student from Mongolia who loves to code! I enjoy working with a variety of programming languages and tools, and I'm always eager to learn more. Here are a few fun facts about me:
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Smart IoT
