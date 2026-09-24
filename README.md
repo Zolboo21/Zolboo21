@@ -1,9 +1,10 @@
 # Zolboo Odonkhuu
 
-Data Scientist based in Ulaanbaatar, Mongolia, working with financial services data: building pipelines, modeling customer behavior, and turning raw data into business decisions.
+Software engineer in Ulaanbaatar, Mongolia, building data and AI systems: applications, RAG pipelines, and machine learning solutions. Background in data science and data engineering in financial services.
 
 ### Experience
 
+- **Software Engineer, Mongolian Water Supply and Sewerage Authority** — developing software applications, RAG pipelines, and ML/AI solutions
 - **Data Scientist, Khan Bank** — built a Customer Lifetime Value pipeline for card products
 - **Data Engineer & Analyst, U-Point (United Alliance LLC)** — built MongoDB-to-SQL ETL pipelines and administered Tableau Server
 - **Researcher, South Korea** — full-time research role
