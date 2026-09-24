@@ -1,36 +1,53 @@
-# Hi, I'm Zolboo! 👋
+# Zolboo Odonkhuu
 
-I'm a Smart IoT student from Mongolia who loves to code! I enjoy working with a variety of programming languages and tools, and I'm always eager to learn more. Here are a few fun facts about me:
+Data Scientist based in Ulaanbaatar, Mongolia, working with financial services data: building pipelines, modeling customer behavior, and turning raw data into business decisions.
 
-- 🎓 I'm currently pursuing a Bachelor's degree in Smart IoT
-- 🌎 I'm from Mongolia
-- 🎮 I'm a big fan of Unity game development
-- 🤖 I enjoy tinkering with Arduino and hardware projects
-- 🏢 I'm currently interning at the Institute of Astronomy and Geophysics of Mongolian Academy Science
+### Experience
 
-## What I'm Up To
+- **Data Scientist, Khan Bank** — built a Customer Lifetime Value pipeline for card products
+- **Data Engineer & Analyst, U-Point (United Alliance LLC)** — built MongoDB-to-SQL ETL pipelines and administered Tableau Server
+- **Researcher, South Korea** — full-time research role
 
-I recently completed my capstone project, which you can check out [here](https://github.com/Zolboo21/CapstoneDesign). My portfolio is a bit outdated, but feel free to take a look [here](https://zolboo21.github.io/GitHub-Resume-Contest-Hackathon/) anyway.
+### Education
 
-## Badges
+B.S. in Software (Smart IoT), Hallym University, South Korea
 
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://arduino.cc/)
-[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+### Languages
 
-![contributions](https://user-images.githubusercontent.com/68363309/219369759-ce6cbed7-b1fe-4f1d-9f5c-4c0d0fc0333e.svg)
+Mongolian, English, Korean
 
+### Tech Stack
 
-## Get in Touch
+**Data & Analytics**
 
-If you're interested in connecting with me or learning more about what I do, feel free to reach out via email at [my-email-address](mailto:zolboo.oz@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/odonkhuu-zolboo-ab25551a1/).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino%20%2F%20Starburst-DD00A1?style=flat-square&logo=trino&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white)
 
-Thanks for stopping by, and happy coding! 😊
+**Databases & Infrastructure**
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Embedded & Other**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+### Selected Work
+
+- **Customer Lifetime Value Pipeline** — card-product CLV modeling using Trino SQL and Python (internal)
+- **MongoDB-to-SQL ETL** — data pipelines feeding BI dashboards for a loyalty platform
+- **[Capstone Design](https://github.com/Zolboo21/CapstoneDesign)** — Smart IoT capstone project, Hallym University
+
+### Contact
+
+[![Email](https://img.shields.io/badge/Email-zolboo.oz%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zolboo.oz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zolboo%20Odonkhuu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odonkhuu-zolboo-ab25551a1/)
